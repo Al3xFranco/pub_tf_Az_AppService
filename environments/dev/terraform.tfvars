@@ -1,0 +1,5 @@
+location = "<location>"
+name_prefix = "<webapp name>"
+kv-name = "Keyvault Name"
+kv-rg = "Keyvault resource group"
+secret-uri = "secret url"
